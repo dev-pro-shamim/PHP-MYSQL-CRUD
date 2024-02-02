@@ -1,0 +1,78 @@
+.container{
+    width: 700px;
+    height: 800px;
+    background-color: #0ba2ac;
+    box-shadow: 4px 5px 10px black;
+    text-align: center;
+    margin: 0 auto;
+   
+   
+   
+    }
+    h1{
+      color: white;
+      font-size: 40px;
+   
+    }
+   
+    input{
+      width: 90%;
+      margin-top: 9px;
+      padding: 12px;
+   
+    }
+    .read{
+        width: 40%;
+        background-color: rgb(109, 230, 53);
+        padding: 10px;
+        font-size: 1.5rem;
+        color: white;
+        cursor: pointer;
+
+    }
+    .btn{
+      width: 40%;
+      background-color: rgb(175, 103, 243);
+      padding: 10px;
+      font-size: 1.5rem;
+      color: white;
+      cursor: pointer;
+    }
+    table{
+
+        width: 100%;
+
+    }
+    table,th,td{
+        padding: 10px;
+        text-align: center;
+        color: #fff;
+        border: 1px solid white;
+        border-collapse: collapse;
+
+    }
+
+    tr td .red{
+        background-color: red;
+        color: #fff;
+       
+      
+
+    }
+    tr td .yello{
+        background-color: aqua;
+        color: black;
+    
+      
+
+    }
+    .edit{
+
+        background-color: darkorange;
+        color: #fff;
+        font-size: 1.2rem;
+        padding: 10px 20px;
+
+
+    }
+
